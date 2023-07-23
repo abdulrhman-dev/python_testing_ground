@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>arrow-clockwise.svg</file>
+  </qresource>
+</RCC>
